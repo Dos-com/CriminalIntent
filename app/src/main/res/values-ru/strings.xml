@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Преступления</string>
+    <string name="crime_title_hint">Введите название преступления.</string>
+    <string name="crime_title_label">Название</string>
+    <string name="crime_details_label">Детали</string>
+    <string name="crime_solved_label">Решено</string>
+    <string name="call_police">Позвонить в полицию</string>
+    <string name="requires_police">Требуется полиция</string>
+    <string name="date_picker_title">Дата преступления:</string>
+    <string name="time_picker_title">Время преступления:</string>
+    <string name="new_crime">Новое преступление</string>
+    <string name="add_crime">Добавить новое преступление</string>
+    <string name="show_subtitle">Показать субтитры</string>
+    <string name="hide_subtitle">Скрыть Субтитры</string>
+    <string name="empty_crime_list">Список преступлении пустой</string>
+    <string name="delete_crime">Удалить Преступление</string>
+    <string name="subtitle_format">%1$d преступление</string>
+
+    <string name="crime_suspect_text">Выберите подозреваемого</string>
+    <string name="crime_report_text">Отправить Отчет о преступлении</string>
+    <string name="crime_report">%1$s! Преступление было раскрыто %2$s. %3$s, и %4$s</string>
+    <string name="crime_report_solved">Дело раскрыто</string>
+    <string name="crime_report_unsolved">Дело не раскрыто</string>
+    <string name="crime_report_no_suspect">подозреваемого нет.</string>
+    <string name="crime_report_suspect">подозреваемый %s.</string>
+    <string name="crime_report_subject">Отчет о преступлении</string>
+    <string name="send_report">Отправить отчет о преступлении через</string>
+    <string name="call_suspect">Позвонить %s</string>
+    <string name="crime_photo">Увеличенное Изображение</string>
+
+    <string name="crime_photo_button_description">Сфотографируйте место преступления</string>
+    <string name="crime_photo_no_image_description">Фото с места преступления (не установлено)</string>
+    <string name="crime_photo_image_description">Фото с места преступления (установлено)</string>
+    <string name="call_suspect_description">Позвонить подозреваемого</string>
+</resources>
